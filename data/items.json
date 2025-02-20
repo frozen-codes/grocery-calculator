@@ -1,0 +1,18 @@
+{
+    "aloo": {
+        "price": 35.0,
+        "unit": "kg"
+    },
+    "pyaaj": {
+        "price": 80.0,
+        "unit": "kg"
+    },
+    "milk": {
+        "price": 10.0,
+        "unit": "packet"
+    },
+    "chips": {
+        "price": 5.0,
+        "unit": "packet"
+    }
+}
