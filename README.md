@@ -52,7 +52,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/grocery-calculator.git
+git clone https://github.com/frozen-codes/grocery-calculator.git
 Install dependencies:
 
 bash
